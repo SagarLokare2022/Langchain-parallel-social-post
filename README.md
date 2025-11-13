@@ -29,7 +29,7 @@ It also prints the **ASCII graph** of the chain, giving a visual understanding o
 
 ## 📂 Project Structure
 
-```markdown
+
 ```text
 /Langchain-parallel-social-post/
 │
@@ -39,6 +39,7 @@ It also prints the **ASCII graph** of the chain, giving a visual understanding o
 ├── requirements.txt            # All dependencies
 ├── .gitignore                  # Protects secrets (.env)
 └── .env                        # Your API key (not uploaded to GitHub)
+```
 
 ![Chain Graph](assets/parallel_chain_graph.png)
 
