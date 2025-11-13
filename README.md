@@ -43,3 +43,7 @@ It also prints the **ASCII graph** of the chain, giving a visual understanding o
 
 ![Chain Graph](assets/parallel_chain_graph.png)
 
+👤 Author
+
+Sagar Lokare
+AI & Analytics Professional | Fractal Analytics
