@@ -39,3 +39,5 @@ It also prints the **ASCII graph** of the chain, giving a visual understanding o
 ├── .gitignore                  # Protects secrets (.env)
 └── .env                        # Your API key (not uploaded to GitHub)
 
+![Chain Graph](assets/parallel_chain_graph.png)
+
