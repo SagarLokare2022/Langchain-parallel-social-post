@@ -29,6 +29,7 @@ It also prints the **ASCII graph** of the chain, giving a visual understanding o
 
 ## 📂 Project Structure
 
+```markdown
 ```text
 /Langchain-parallel-social-post/
 │
